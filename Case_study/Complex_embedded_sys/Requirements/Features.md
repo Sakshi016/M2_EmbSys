@@ -5,4 +5,4 @@
     -the child look feature has reliefed Mums from the mishaps that might occur.
     -You could do oil free roasting.
     -Baking can be done easily.
-    -Moreover, the food taken out from the fridge can be heated in minutes
+    -Moreover, the food taken out from the fridge can be reheated in minutes
