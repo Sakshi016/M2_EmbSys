@@ -42,7 +42,7 @@ The Water Level Sensing Section senses the level of water in the tank and sends 
 
 * wiring can occur any time
 
-## 4W & 1H
+# 5W & 1H
 
 ## WHO
   
@@ -62,7 +62,12 @@ The Water Level Sensing Section senses the level of water in the tank and sends 
    
    * Automatically supplies water to elevated tanks and buildings.
    * Outputting alarms for water shortage or water rise in elevated tanks.
- 
+
+## WHEN 
+
+   * To ensure constant reserve of water in storage tank
+
+
 # HOW
 
 Automatic water level controller switch the motor on whenever the water level drops below a certain level and shuts the motor off when the water rises well above a fixed level.
