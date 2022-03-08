@@ -7,6 +7,8 @@
 |  H2     |low,medium,high waterlevel detection       | level of water    | detects user through alarm|detects user through alarm| Passed |
 
 
+
+
 # LOW LEVEL TEST PLAN 
 
 | Test id |Description      | Expected input | Actual output |Expected output| Passed or Failed |      
