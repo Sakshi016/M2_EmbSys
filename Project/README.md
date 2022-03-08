@@ -1,4 +1,6 @@
-# TABLE OF CONTENTS
+# AUTOMATIC PUMP LEVEL CONTROLLER
+
+## TABLE OF CONTENTS
 
 | Folder | Description |
 |:-----: |:----------: |
@@ -11,7 +13,7 @@
 | 7_References      | references            |
 
 
-# CODE ANALYSIS 
+## BADGES ACQUIRED
 
 | Build | Cpp Check| Valgrind | Codacy | Unit testing|Codiga| Codeac|
 |--|--|--|--|--|--|--|
