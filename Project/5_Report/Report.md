@@ -18,6 +18,10 @@
 Water Level Controller using Microcontroller will help in automatically controlling the water motor by sensing the water level in a tank.
 The Water Level Sensing Section senses the level of water in the tank and sends it to the Receiver Section. Receiver Section is connected to the Controlling Section, which process the received information and produces visual, sound indications and controls the operation of the motor whenever required.
 
+# BLOCK DIAGRAM
+
+![Flow chrt water c](https://user-images.githubusercontent.com/98878326/155835327-cc645385-5126-416c-9789-02cc8731dbc2.png)
+
 # FEATURES
 
 * conserves water
@@ -83,6 +87,17 @@ The Water Level Sensing Section senses the level of water in the tank and sends 
 
 Automatic water level controller switch the motor on whenever the water level drops below a certain level and shuts the motor off when the water rises well above a fixed level.
 
+
+# COMPONENT DIAGRAM
+
+![component diagram ](https://user-images.githubusercontent.com/98878326/155835228-0069be0f-8c12-4baf-969a-5a138d53d7a1.jpeg)
+
+# FLOW CHART
+
+![flowchart wlc](https://user-images.githubusercontent.com/98878326/155835250-a6eac639-8ed0-4bbc-8a87-b28eb65e1baa.png)
+
+
+
 # COMPONENTS USED
 
 ## LCD DISPLAY
@@ -104,6 +119,7 @@ Automatic water level controller switch the motor on whenever the water level dr
 
 ## RESISTOR
 ![resistor](https://user-images.githubusercontent.com/98878326/157268005-64caf86d-23a7-4078-b430-acbcf6816a31.png)
+
 
 # TEST PLAN
 
