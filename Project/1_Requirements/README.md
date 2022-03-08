@@ -21,6 +21,20 @@ The Water Level Sensing Section senses the level of water in the tank and sends 
 * compact design
 * feature touch keys
 
+
+# REQUIREMENTS OF PROJECT 
+   
+   * Arduino Uno
+   * 16 x 2 LCD Display
+   * Ultrasonic Sensor (HCSR-04)
+   * Breadboard
+   * Potentiometer (10k)
+   * 1k Resistor
+   * Relay Module
+   * Push Button
+   * SPST Switch
+   
+
 # SWOT ANALYSIS
  ## STRENGTH 
 
